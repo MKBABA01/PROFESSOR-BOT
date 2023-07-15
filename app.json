@@ -62,22 +62,22 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI.",
+            "description": "mongodb+srv://revoy92066:manusingh@cluster0.sge9jjb.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
-            "value": "Cluster0",
+            "value": "revoy92066",
             "required": false
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Telegram_files",
+            "value": "Telegram_Media",
             "required": false        
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "hellomerijaanm",
             "required": false
         },
         "IMDB": {
